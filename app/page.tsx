@@ -29,7 +29,7 @@ const MOCK_PRODUCTS = [
     description: 'Pão tradicional tostado na manteiga, 2 smash burgers 90g, duplo queijo cheddar, maionese trufada e cebola roxa.',
     basePrice: 34.50,
     category: 'Hambúrgueres',
-    imageUrl: 'https://images.unsplash.com/photo-1594212696431-7b19814125b0?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://pecadobychiqui.com/wp-content/uploads/2025/01/UMAMI-8.png',
     availableAddons: [
       { id: 'a1', name: 'Extra Cheddar', price: 5.00 },
       { id: 'a7', name: 'Maionese Trufada', price: 4.50 },
@@ -41,7 +41,7 @@ const MOCK_PRODUCTS = [
     description: 'Porção de 400g de batatas rústicas cortadas à mão, temperadas com páprica defumada, sal grosso e alecrim.',
     basePrice: 24.00,
     category: 'Porções',
-    imageUrl: 'app/fritas.jpeg',
+    imageUrl: '/images/fritas.jpeg',
     availableAddons: [
       { id: 'a4', name: 'Fonduta de Queijo', price: 8.00 },
       { id: 'a5', name: 'Farofa de Bacon', price: 6.00 },
